@@ -9,6 +9,10 @@ different specifications. Solvents may or may not participate (as a reactant) in
 reaction.
  NLP may be required to extract data from reaction procedures
 
+The repo below is needed
+https://github.com/sergsb/IUPAC2Struct.git
+https://github.com/rxn4chemistry/rxnmapper.git
+
 ```
 spiltrxn.py is to recognize the role of chemicals
 ```
