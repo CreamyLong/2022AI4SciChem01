@@ -10,7 +10,9 @@ reaction.
  NLP may be required to extract data from reaction procedures
 
 The repo below is needed
+
 https://github.com/sergsb/IUPAC2Struct.git
+
 https://github.com/rxn4chemistry/rxnmapper.git
 
 ```
